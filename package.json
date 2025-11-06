@@ -17,20 +17,20 @@
     "node": ">=20.9.0"
   },
   "dependencies": {
-    "@mastra/ai-sdk": "^0.2.5",
-    "@mastra/core": "^0.23.3",
-    "@mastra/evals": "^0.14.2",
-    "@mastra/libsql": "^0.16.1",
-    "@mastra/loggers": "^0.10.18",
-    "@mastra/mcp": "^0.14.1",
-    "@mastra/memory": "^0.15.10",
-    "@mastra/pg": "^0.17.7",
-    "mastra": "^0.17.7",
+    "@mastra/ai-sdk": "0.0.0-main-test-05-11-2025-2-20251106022801",
+    "@mastra/core": "0.0.0-main-test-05-11-2025-2-20251106022801",
+    "@mastra/evals": "0.0.0-main-test-05-11-2025-2-20251106022801",
+    "@mastra/libsql": "0.0.0-main-test-05-11-2025-2-20251106022801",
+    "@mastra/loggers": "0.0.0-main-test-05-11-2025-2-20251106022801",
+    "@mastra/mcp": "0.0.0-main-test-05-11-2025-2-20251106022801",
+    "@mastra/memory": "0.0.0-main-test-05-11-2025-2-20251106022801",
+    "@mastra/pg": "0.0.0-main-test-05-11-2025-2-20251106022801",
+    "mastra": "0.0.0-main-test-05-11-2025-2-20251106022801",
     "zod": "^4.1.12"
   },
   "devDependencies": {
     "@types/node": "^24.10.0",
-    "mastra": "^0.17.7",
+    "mastra": "0.0.0-main-test-05-11-2025-2-20251106022801",
     "typescript": "^5.9.3"
   }
 }
