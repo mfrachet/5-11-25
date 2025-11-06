@@ -7,7 +7,6 @@ import { Observability } from "@mastra/observability";
 import {
   toolCallAppropriatenessScorer,
   completenessScorer,
-  translationScorer,
 } from "./scorers/weather-scorer";
 
 export const mastra = new Mastra({
@@ -16,7 +15,6 @@ export const mastra = new Mastra({
   scorers: {
     toolCallAppropriatenessScorer,
     completenessScorer,
-    translationScorer,
   },
   storage: new LibSQLStore({
     id: "mastra",
